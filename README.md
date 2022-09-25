@@ -1,2 +1,2 @@
 # Proz
-Repositório referentes aos estudos em Desenvolvimento Mobile em Flutter na Proz
+Repositório referente aos estudos em Desenvolvimento Mobile em Flutter - Proz
